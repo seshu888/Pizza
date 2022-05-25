@@ -1,7 +1,6 @@
 import React from 'react';
 import { FeatureContainer, FeatureButton } from './FeatureElements';
-// changed
-ss
+// chanss
 const Feature = () => {
   return (
     <FeatureContainer>
